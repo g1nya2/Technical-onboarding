@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/me.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "My portfolio picture";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Project using Azure Static Web Apps ❤️",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I won the Encouragement Award with my teammates at the Microsoft-hosted hackerton.🎉",
+    url: "https://github.com/g1nya2/Whodesignedthisfxckingt-shirts-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Learn",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Enable more diverse learning to actively engage in MLSA activities.In particular, there is a high interest in azure.",
+    url: "https://learn.microsoft.com/en-us/users/geunheekim-6906/",
   },
   {
-    title: "My Resume Site",
+    title: "My Github Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "put in my various learning contents and continue to fill them with various projects in the future.",
+    url: "https://github.com/g1nya2",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "KNU Software&Start-up Club <Get IT>",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Create better value by operating various start-up activities and software training. I am currently the lead of <Get IT>",
+    url: "https://www.notion.so/GET-IT-4th-Member-Page-11ed485afcc44ccab595bf03f8590af3?pvs=4",
   },
 ];
 
