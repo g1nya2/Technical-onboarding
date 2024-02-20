@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/water.jpg";
 
-const imageAltText = "water picture";
+const imageAltText = "water blue picture";
 
 /**
  * Sort description that expands on your title on the Home component.
